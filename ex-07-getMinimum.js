@@ -22,6 +22,7 @@
 //     return num1
 //     return lowest
 // }
+
 // Attempt Two with Help from Bubba
 function getMinimum(num1, num2, num3, num4){
   if ((num1 < num2) && (num1 < num3) && (num1 < num4)){
